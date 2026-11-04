@@ -1,2 +1,2 @@
 # git-lab-1
-Experiment 5 - Git Fetch and Rebase
+Experiment 5 - Git Fetch 
